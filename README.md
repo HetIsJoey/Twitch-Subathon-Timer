@@ -11,6 +11,11 @@
 
 Its important you setup both due to Twitch being used for subscribers/bits and StreamElements for Donations
 
+# Twitch Commands
+
+1. !subathon pause
+2. !subathon continue
+
 # Works With?
 
 1. Twitch
