@@ -7,7 +7,7 @@
 
 1. Insert your Twitch Username/StreamElements JWT Token.
 2. Setup the settings in the settings tab.
-3. Add http://localhost:8999/ as an browsersource in OBS.
+3. Add http://localhost:8998/ as an browsersource in OBS.
 
 Its important you setup both due to Twitch being used for subscribers/bits and StreamElements for Donations
 
