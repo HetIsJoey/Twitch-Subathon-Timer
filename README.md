@@ -1,4 +1,4 @@
-# Subathon-Timer
+# Twitch Subathon Timer
 
 - This subathon timer is currently in beta and may contain bugs.
 - Please create an issue if you have found a bug. :+1:
