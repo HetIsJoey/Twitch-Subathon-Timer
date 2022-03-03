@@ -24,5 +24,5 @@ Its important you setup both due to Twitch being used for subscribers/bits and S
 StreamLabs is planned in a future release.
 
 # Previews
-![Screenshot1](https://screenshot.hetisjoey.com/dAGO2/fUNUgenE02.png/raw)
+![Screenshot1](https://screenshot.hetisjoey.com/dAGO2/ciKUlIja37.png/raw)
 ![Screenshot2](https://screenshot.hetisjoey.com/dAGO2/gIpofAPI59.png/raw)
